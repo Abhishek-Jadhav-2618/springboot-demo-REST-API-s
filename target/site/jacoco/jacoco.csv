@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,PracticeAssignmentDC1.demo.Service,BookService,5,44,0,0,0,11,1,6,1,6
+demo,PracticeAssignmentDC1.demo,DemoApplication,5,3,0,0,2,1,1,1,1,1
+demo,PracticeAssignmentDC1.demo.Model,Book,0,24,0,0,0,10,0,7,0,7
+demo,PracticeAssignmentDC1.demo.Controller,BookController,0,66,0,2,0,13,0,7,0,6

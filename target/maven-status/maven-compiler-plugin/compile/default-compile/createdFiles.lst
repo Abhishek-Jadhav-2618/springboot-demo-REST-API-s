@@ -1,0 +1,5 @@
+PracticeAssignmentDC1\demo\DemoApplication.class
+PracticeAssignmentDC1\demo\Model\Book.class
+PracticeAssignmentDC1\demo\Controller\BookController.class
+PracticeAssignmentDC1\demo\Service\BookService.class
+PracticeAssignmentDC1\demo\Repository\BookRepository.class

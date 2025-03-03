@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: PracticeAssignmentDC1.demo.ControllerTest.BookControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.267 s -- in PracticeAssignmentDC1.demo.ControllerTest.BookControllerTest
